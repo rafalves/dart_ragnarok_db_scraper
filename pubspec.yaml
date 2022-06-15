@@ -13,3 +13,4 @@ dev_dependencies:
 dependencies:
   html: ^0.15.0
   http: ^0.13.4
+  path: ^1.8.2
